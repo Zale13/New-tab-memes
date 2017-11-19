@@ -1,12 +1,6 @@
 /* List of mascot files to choose from and their properties */
 var mascotList = [
    
-    {
-        "filename": "Qpvykgt.png",
-        "xpos": "20"
-    },
-	
-	
 
     {
         "filename": "aOIdeMi.png",
@@ -43,12 +37,6 @@ var mascotList = [
         "xpos": "0"
     },
 	
-	
-	
-	{
-        "filename": "f8R9RFa.jpg",
-        "xpos": "0"
-    },
 	
 	
 	{
