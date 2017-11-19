@@ -6,12 +6,8 @@ var mascotList = [
         "xpos": "20"
     },
 	
-    {
-        "filename": "8oBvhZ9.png",
-        "xpos": "0"
-    },
 	
-	
+
     {
         "filename": "aOIdeMi.png",
         "xpos": "200"
@@ -23,16 +19,7 @@ var mascotList = [
         "xpos": "25"
     },
     
-	{
-        "filename": "z7DtDCI.png",
-        "xpos": "0"
-    },
-	
-	{
-        "filename": "GFBqaVU.png",
-        "xpos": "0"
-    },
-	
+
 	{
         "filename": "TPIm4Ne.png",
         "xpos": "0"
@@ -50,11 +37,7 @@ var mascotList = [
         "xpos": "0"
     },
 	
-	{
-        "filename": "7agC9MF.png",
-        "xpos": "0"
-    },
-	
+
 	{
         "filename": "7QxwZ28.png",
         "xpos": "0"
@@ -80,12 +63,7 @@ var mascotList = [
     },
 	
 	
-	{
-        "filename": "5ki67Df.png",
-        "xpos": "0"
-    },
-	
-	
+
 	
 	{
         "filename": "PCNe9mX.png",
@@ -160,12 +138,7 @@ var mascotList = [
         "xpos": "0"
     },
 	
-	
-	{
-        "filename": "Ev5i6K7.png",
-        "xpos": "0"
-    },
-	
+		
 	{
         "filename": "E0rOH30.png",
         "xpos": "0"
@@ -204,17 +177,7 @@ var mascotList = [
     },
 	
 	
-	{
-        "filename": "QSR3BnD.png",
-        "xpos": "0"
-    },
-	
-	{
-        "filename": "qshclXJ.png",
-        "xpos": "0"
-    },
-	
-	
+
 	{
         "filename": "uhEX0qr.png",
         "xpos": "0"
